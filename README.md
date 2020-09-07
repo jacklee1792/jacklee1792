@@ -2,4 +2,4 @@
 
 I do competitive programming. Add me on Codeforces!
   
-![Codeforces Badge](https://cp-logo.vercel.app/codeforces/tzak)
+![Codeforces Badge](https://run.kaist.ac.kr/badges/codeforces/tzak.svg)
